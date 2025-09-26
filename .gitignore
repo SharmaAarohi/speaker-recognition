@@ -2,4 +2,4 @@
 .env/
 venv/
 __pycache__/
-outputs/
+50_speakers_audio_data/

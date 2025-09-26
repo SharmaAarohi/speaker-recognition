@@ -1,0 +1,16 @@
+{
+  "data_root": "C:\\Users\\aaroh\\Downloads\\speaker-recognition\\50_speakers_audio_data",
+  "chosen_speakers": [
+    "Speaker_0015",
+    "Speaker0033",
+    "Speaker0027"
+  ],
+  "num_speakers": 3,
+  "samples_per_speaker": 10,
+  "sample_rate": 16000,
+  "seed": 42,
+  "n_samples_used": 30,
+  "failed_files": 0,
+  "rf_accuracy": 1.0,
+  "lr_accuracy": 1.0
+}
